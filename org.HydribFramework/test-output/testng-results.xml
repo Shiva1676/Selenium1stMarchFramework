@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[The following script is running on >>>Chrome]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8751" started-at="2019-02-27T14:24:59Z" finished-at="2019-02-27T14:25:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8751" started-at="2019-02-27T14:24:59Z" finished-at="2019-02-27T14:25:08Z">
+      <class name="pageObjectModel.TestCase01">
+        <test-method status="PASS" signature="testingApp()[pri:0, instance:pageObjectModel.TestCase01@5ae9a829]" name="testingApp" duration-ms="8736" started-at="2019-02-27T19:54:59Z" finished-at="2019-02-27T19:55:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The following script is running on >>>Chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testingApp -->
+      </class> <!-- pageObjectModel.TestCase01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
